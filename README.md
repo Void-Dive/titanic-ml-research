@@ -87,3 +87,30 @@ titanic-ml-research/
 ├── README.md
 └── requirements.txt
 ```
+## How to Run
+
+1. Clone this repository.
+
+2. Navigate into the project folder:
+
+```bash
+cd titanic-ml-research
+```
+
+3. Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Open the notebook:
+
+```text
+notebooks/titanic_survival_research.ipynb
+```
+
+5. Run the notebook from top to bottom.
+
+## Status
+
+This project is complete for the current class assignment and may be expanded later with additional models, pipeline preprocessing, cross-validation improvements, and feature importance analysis.
